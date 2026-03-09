@@ -1,5 +1,7 @@
 # Proyecto (Maven) - Strategy
 
+![Supermercado con puestos de frutas y verduras](https://www.publicdomainpictures.net/pictures/140000/velka/supermarket-stalls.jpg)
+
 ## REQUISITOS-MINIPUNTO DE VENTA
 
 ***Mi Tiendita*** ofrece el siguiente catálogo de productos de abarrote a sus clientes:
